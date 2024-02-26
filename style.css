@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100svh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.331);
+}
+div {
+  height: fit-content;
+  width: fit-content;
+}
+div h1 {
+  font-size: 50px;
+}
